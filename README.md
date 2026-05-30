@@ -20,10 +20,10 @@ The goal is simple: **stay consistent, track progress, and become better every d
 ## 📅 Daily Progress
 
 | Day   | Topic                           | Status |
-| ----- | ------------                    | ------ |
-| Day 1 | Basics                          | ✅      |
-| Day 2 | Operators and variables         | ✅       |
-| Day 2 | Operators and variables         | ⏳      |
+| ----- | ------------                    | ------|
+| Day 1 | Basics                          | ✅    |
+| Day 2 | Operators and variables         | ✅    |
+| Day 3 |         | ⏳    |
 
 ---
 
