@@ -23,7 +23,8 @@ The goal is simple: **stay consistent, track progress, and become better every d
 | ----- | ------------                    | ------|
 | Day 1 | Basics                          | ✅    |
 | Day 2 | Operators and variables         | ✅    |
-| Day 3 |         | ⏳    |
+| Day 3 |  conditional property and loops       |  ✅   |
+| Day 4 |         | ⏳    |
 
 ---
 
