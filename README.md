@@ -25,7 +25,8 @@ The goal is simple: **stay consistent, track progress, and become better every d
 | Day 2 | Operators and variables         | ✅    |
 | Day 3 | conditional property and loops       |  ✅   |
 | Day 4 | Patters        | ✅   |
-| Day 5 | Functions | ⏳    |
+| Day 5 | Functions |  ✅   |
+| Day 5 | Binary number system |  ⏳   |
 
 ---
 
